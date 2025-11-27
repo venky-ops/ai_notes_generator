@@ -1,0 +1,15 @@
+Machine learning basics:
+- Supervised learning involves labeled data.
+- Unsupervised learning tries to find structure.
+- Regression predicts continuous values; classification predicts categories.
+
+Neural nets:
+Neural networks are inspired by brain neurons. They have layers. Backpropagation is used for training.
+Activation functions like ReLU, sigmoid are used.
+Common optimizers are SGD, Adam.
+
+Practical tips:
+Always split dataset into train/val/test.
+Normalize or standardize inputs.
+Check for overfitting and use regularization.
+a

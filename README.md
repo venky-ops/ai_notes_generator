@@ -26,3 +26,15 @@ This project is perfect for:
 
 ```bash
 pip install -r requirements.txt
+
+## ▶️ How to Use (CLI)
+
+```bash
+python ai_notes_generator.py -i notes.txt -o notes.md
+
+## 💻 Streamlit App
+
+``` bash
+streamlit run app.py
+
+
